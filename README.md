@@ -9,4 +9,6 @@ generate anime face with DCGAN
 
 
 
-<video controls src="https://github.com/ahmadrezabaqerzade/GenerateAnimeFace/blob/main/video.mp4" title="Title"></video>
+<video controls>
+  <source src="[videos/real-estate.mp4](https://github.com/ahmadrezabaqerzade/GenerateAnimeFace/blob/main/video.mp4)" type="video/mp4">
+</video>
