@@ -2,5 +2,7 @@
 generate anime face with DCGAN
 
 
-https://github.com/user-attachments/assets/9d418e56-58cc-4e89-b6ab-61fac5b16d0c
+
+
+https://github.com/user-attachments/assets/16ab0a05-f1fd-4287-a20b-24c3fac899d6
 
